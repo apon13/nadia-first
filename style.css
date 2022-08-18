@@ -7,8 +7,14 @@ span {
 }
 
 .hireme {
-    width: 400px;
+    margin: 20%;
+
+
+    width: 50px;
     color: aliceblue;
+
+
+
     background-image: linear-gradient(black, red);
     text-decoration: none
 }
@@ -18,4 +24,8 @@ span {
 
 
 
+}
+
+.nothing {
+    display: flex;
 }
